@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://github.com/mouaispasmal/mouaispasmal/blob/main/snake.yml" alt="Snake animation" />
+
 
 ###
