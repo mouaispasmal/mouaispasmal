@@ -35,17 +35,13 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/19/95/13/1995131f966391f8caaebe3c7903dee0.jpg"  />
+  <img src="https://streak-stats.demolab.com?user=mouaispasmal&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mouaispasmal&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <img height="150" src="https://i.pinimg.com/736x/19/95/13/1995131f966391f8caaebe3c7903dee0.jpg"  />
 </div>
-
-###
-
-
 
 ###
